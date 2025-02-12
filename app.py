@@ -1,1 +1,1 @@
-# This is the project file 
+# This is the project file . This is the main file that will be run to start the application.
